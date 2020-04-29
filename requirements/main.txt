@@ -223,10 +223,9 @@ python-dateutil==2.8.0 \
 python-snappy==0.5.4 \
     --hash=sha256:9c0ba725755b749ef9b03f6ed7582cefb957c0d9f6f064a7c4314148a9dbdb61 \
     --hash=sha256:d9c26532cfa510f45e8d135cde140e8a5603d3fb254cfec273ebc0ecf9f668e2
-pytz==2019.1 \
-    --hash=sha256:303879e36b721603cc54604edcac9d20401bdbe31e1e4fdee5b9f98d5d31dfda \
-    --hash=sha256:d747dd3d23d77ef44c6a3526e274af6efeb0a6f1afd5a69ba4d5be4098c8e141 \
-    # via pandas
+pytz==2020.1 \
+    --hash=sha256:a494d53b6d39c3c6e44c3bec237336e14305e4f29bbf800b599253057fbb79ed \
+    --hash=sha256:c35965d010ce31b23eeb663ed3cc8c906275d6be1a34393a1d73a41febf4a048    # via pandas
 pyyaml==5.1 \
     --hash=sha256:1adecc22f88d38052fb787d959f003811ca858b799590a5eaa70e63dca50308c \
     --hash=sha256:436bc774ecf7c103814098159fbb84c2715d25980175292c648f2da143909f95 \

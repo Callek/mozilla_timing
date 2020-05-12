@@ -99,10 +99,9 @@ idna==2.8 \
     --hash=sha256:c357b3f628cf53ae2c4c05627ecc484553142ca23264e593d327bcde5e9c3407 \
     --hash=sha256:ea8b7f6188e6fa117537c3df7da9fc686d485087abf6ac197f9c46432f7e4a3c \
     # via idna-ssl, requests, taskhuddler, yarl
-jmespath==0.9.4 \
-    --hash=sha256:3720a4b1bd659dd2eecad0666459b9788813e032b83e7ba58578e48254e0a0e6 \
-    --hash=sha256:bde2aef6f44302dfb30320115b17d030798de8c4110e28d5cf6cf91a7a31074c \
-    # via boto3, botocore
+jmespath==0.10.0 \
+    --hash=sha256:b85d0567b8666149a93172712e68920734333c0ce7e89b78b3e987f71e5ed4f9 \
+    --hash=sha256:cdf6525904cc597730141d61b36f2e4b8ecc257c420fa2f4549bac2c2d0cb72f    # via boto3, botocore
 mohawk==1.0.0 \
     --hash=sha256:aa57e6626a6ea323ab714779f23734de1d1feca8cb6fc00b65e65ce115c1696a \
     --hash=sha256:fca4e34d8f5492f1c33141c98b96e168a089e5692ce65fb747e4bb613f5fe552 \

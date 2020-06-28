@@ -95,10 +95,9 @@ docutils==0.14 \
 idna-ssl==1.1.0 \
     --hash=sha256:a933e3bb13da54383f9e8f35dc4f9cb9eb9b3b78c6b36f311254d6d0d92c6c7c \
     # via aiohttp, taskhuddler
-idna==2.8 \
-    --hash=sha256:c357b3f628cf53ae2c4c05627ecc484553142ca23264e593d327bcde5e9c3407 \
-    --hash=sha256:ea8b7f6188e6fa117537c3df7da9fc686d485087abf6ac197f9c46432f7e4a3c \
-    # via idna-ssl, requests, taskhuddler, yarl
+idna==2.10 \
+    --hash=sha256:b307872f855b18632ce0c21c5e45be78c0ea7ae4c15c828c20788b26921eb3f6 \
+    --hash=sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0    # via idna-ssl, requests, taskhuddler, yarl
 jmespath==0.9.4 \
     --hash=sha256:3720a4b1bd659dd2eecad0666459b9788813e032b83e7ba58578e48254e0a0e6 \
     --hash=sha256:bde2aef6f44302dfb30320115b17d030798de8c4110e28d5cf6cf91a7a31074c \

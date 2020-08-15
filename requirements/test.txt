@@ -26,10 +26,9 @@ flake8-polyfill==1.0.2 \
 flake8==3.7.7 \
     --hash=sha256:859996073f341f2670741b51ec1e67a01da142831aa1fdc6242dbf88dffbe661 \
     --hash=sha256:a796a115208f5c03b18f332f7c11729812c8c3ded6c46319c59b53efd3819da8
-isort==4.3.17 \
-    --hash=sha256:01cb7e1ca5e6c5b3f235f0385057f70558b70d2f00320208825fa62887292f43 \
-    --hash=sha256:268067462aed7eb2a1e237fcb287852f22077de3fb07964e87e00f829eea2d1a \
-    # via flake8-isort
+isort==5.4.2 \
+    --hash=sha256:60a1b97e33f61243d12647aaaa3e6cc6778f5eb9f42997650f1cc975b6008750 \
+    --hash=sha256:d488ba1c5a2db721669cc180180d5acf84ebdc5af7827f7aaeaa75f73cf0e2b8    # via flake8-isort
 mccabe==0.6.1 \
     --hash=sha256:ab8a6258860da4b6677da4bd2fe5dc2c659cff31b3ee4f7f5d64e79735b80d42 \
     --hash=sha256:dd8d182285a0fe56bace7f45b5e7d1a6ebcbf524e8f3bd87eb0f125271b8831f \
